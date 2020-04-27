@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dvv27\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\dvv27\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\dvv27\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dvv27\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_HowruSocialNetwork.1190360281.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dvv27\Desktop\Проекты\HowruSocialNetwork" t="IncludeFlat">
+      <e p="Howru.Auth" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Howru.Auth.csproj" t="IncludeRecursive" />
+        <e p="Interfaces" t="Include">
+          <e p="IAuthService.cs" t="Include" />
+          <e p="IJwtGenerator.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Howru.Auth.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="AuthService.cs" t="Include" />
+          <e p="JwtGenerator.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Howru.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EF" t="Include">
+          <e p="MyContext.cs" t="Include" />
+        </e>
+        <e p="Howru.Core.csproj" t="IncludeRecursive" />
+        <e p="Hubs" t="Include">
+          <e p="ChatHub.cs" t="Include" />
+          <e p="Models" t="Include">
+            <e p="Message.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Howru.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="UserRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Howru.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Converters" t="Include">
+          <e p="UserConverter.cs" t="Include" />
+        </e>
+        <e p="Dto" t="Include">
+          <e p="UserDto.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="Friend.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="Howru.Data.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Howru.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="IUserRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="HowruSocialNetwork" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configurations" t="Include">
+          <e p="ConfigureConnection.cs" t="Include" />
+          <e p="ConfigureJwt.cs" t="Include" />
+          <e p="ConfigureServices.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="AuthConroller.cs" t="Include" />
+          <e p="ChatController.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
+        </e>
+        <e p="HowruSocialNetwork.csproj" t="IncludeRecursive" />
+        <e p="node_modules\@aspnet\signalr" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="HowruSocialNetwork.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="package.json" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="ViewModel" t="Include">
+          <e p="LoginViewModel.cs" t="Include" />
+          <e p="RegisterViewModel.cs" t="Include" />
+          <e p="RequestString.cs" t="Include" />
+        </e>
+      </e>
+      <e p="HowruSocialNetwork.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+﻿GET https://localhost:5001/api/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-22T100543.200.json
+
+###
+
+GET http://localhost:8080/api/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-22T100523.200.html
+
+###
+
+GET http://localhost:8080/api/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-22T100446.200.html
+
+###
+

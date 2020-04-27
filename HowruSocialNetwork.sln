@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowruSocialNetwork", "HowruSocialNetwork\HowruSocialNetwork.csproj", "{C0F553C3-EDB8-4B34-81F8-8B3AC90E8128}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CD361C22-501A-4351-B4E3-85DA6C1898A2} = {CD361C22-501A-4351-B4E3-85DA6C1898A2}
+		{FA28B444-96CF-41A6-8E63-417A906EE005} = {FA28B444-96CF-41A6-8E63-417A906EE005}
+		{5BDBF2FD-5C16-49CE-8A31-6621A2A50F59} = {5BDBF2FD-5C16-49CE-8A31-6621A2A50F59}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Howru.Auth", "Howru.Auth\Howru.Auth.csproj", "{5BDBF2FD-5C16-49CE-8A31-6621A2A50F59}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CD361C22-501A-4351-B4E3-85DA6C1898A2} = {CD361C22-501A-4351-B4E3-85DA6C1898A2}
+		{FA28B444-96CF-41A6-8E63-417A906EE005} = {FA28B444-96CF-41A6-8E63-417A906EE005}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Howru.Core", "Howru.Core\Howru.Core.csproj", "{FA28B444-96CF-41A6-8E63-417A906EE005}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CD361C22-501A-4351-B4E3-85DA6C1898A2} = {CD361C22-501A-4351-B4E3-85DA6C1898A2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Howru.Data", "Howru.Data\Howru.Data.csproj", "{CD361C22-501A-4351-B4E3-85DA6C1898A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F553C3-EDB8-4B34-81F8-8B3AC90E8128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F553C3-EDB8-4B34-81F8-8B3AC90E8128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F553C3-EDB8-4B34-81F8-8B3AC90E8128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F553C3-EDB8-4B34-81F8-8B3AC90E8128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDBF2FD-5C16-49CE-8A31-6621A2A50F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDBF2FD-5C16-49CE-8A31-6621A2A50F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDBF2FD-5C16-49CE-8A31-6621A2A50F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDBF2FD-5C16-49CE-8A31-6621A2A50F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA28B444-96CF-41A6-8E63-417A906EE005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA28B444-96CF-41A6-8E63-417A906EE005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA28B444-96CF-41A6-8E63-417A906EE005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA28B444-96CF-41A6-8E63-417A906EE005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD361C22-501A-4351-B4E3-85DA6C1898A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD361C22-501A-4351-B4E3-85DA6C1898A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD361C22-501A-4351-B4E3-85DA6C1898A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD361C22-501A-4351-B4E3-85DA6C1898A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBAD125C-46D7-4777-B08A-C611A1D6D2C4}
+	EndGlobalSection
+EndGlobal

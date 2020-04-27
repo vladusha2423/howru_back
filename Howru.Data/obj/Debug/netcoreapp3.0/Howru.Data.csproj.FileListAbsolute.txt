@@ -1,0 +1,16 @@
+C:\Users\dvv27\Desktop\HowruSocialNetwork\Howru.Data\bin\Debug\netcoreapp3.0\Howru.Data.deps.json
+C:\Users\dvv27\Desktop\HowruSocialNetwork\Howru.Data\bin\Debug\netcoreapp3.0\Howru.Data.dll
+C:\Users\dvv27\Desktop\HowruSocialNetwork\Howru.Data\obj\Debug\netcoreapp3.0\Howru.Data.csprojAssemblyReference.cache
+C:\Users\dvv27\Desktop\HowruSocialNetwork\Howru.Data\obj\Debug\netcoreapp3.0\Howru.Data.AssemblyInfoInputs.cache
+C:\Users\dvv27\Desktop\HowruSocialNetwork\Howru.Data\obj\Debug\netcoreapp3.0\Howru.Data.AssemblyInfo.cs
+C:\Users\dvv27\Desktop\HowruSocialNetwork\Howru.Data\bin\Debug\netcoreapp3.0\Howru.Data.pdb
+C:\Users\dvv27\Desktop\HowruSocialNetwork\Howru.Data\obj\Debug\netcoreapp3.0\Howru.Data.dll
+C:\Users\dvv27\Desktop\HowruSocialNetwork\Howru.Data\obj\Debug\netcoreapp3.0\Howru.Data.pdb
+C:\Users\dvv27\Desktop\Проекты\HowruSocialNetwork\Howru.Data\bin\Debug\netcoreapp3.0\Howru.Data.deps.json
+C:\Users\dvv27\Desktop\Проекты\HowruSocialNetwork\Howru.Data\bin\Debug\netcoreapp3.0\Howru.Data.dll
+C:\Users\dvv27\Desktop\Проекты\HowruSocialNetwork\Howru.Data\bin\Debug\netcoreapp3.0\Howru.Data.pdb
+C:\Users\dvv27\Desktop\Проекты\HowruSocialNetwork\Howru.Data\obj\Debug\netcoreapp3.0\Howru.Data.csprojAssemblyReference.cache
+C:\Users\dvv27\Desktop\Проекты\HowruSocialNetwork\Howru.Data\obj\Debug\netcoreapp3.0\Howru.Data.AssemblyInfoInputs.cache
+C:\Users\dvv27\Desktop\Проекты\HowruSocialNetwork\Howru.Data\obj\Debug\netcoreapp3.0\Howru.Data.AssemblyInfo.cs
+C:\Users\dvv27\Desktop\Проекты\HowruSocialNetwork\Howru.Data\obj\Debug\netcoreapp3.0\Howru.Data.dll
+C:\Users\dvv27\Desktop\Проекты\HowruSocialNetwork\Howru.Data\obj\Debug\netcoreapp3.0\Howru.Data.pdb
